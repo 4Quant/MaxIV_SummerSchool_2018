@@ -1,4 +1,4 @@
-# MaxIV SummerSchool 2018 [![Binder with JupyterLab](https://img.shields.io/badge/launch-jupyterlab-red.svg)](http://mybinder.org/v2/gh/4Quant/MaxIV_SummerSchool_2018/master?urlpath=lab)
+# MaxIV SummerSchool 2018 [![Binder with JupyterLab](https://img.shields.io/badge/launch-jupyterlab-red.svg)](http://mybinder.org/v2/gh/4Quant/MaxIV_SummerSchool_2018/master?urlpath=lab) -bit.ly/max4school
 
 The material for the Big Data and 3D analysis presentation for the MaxIV Summer School (https://www.maxiv.lu.se/2018-sr-summer-school_maxiv-chalmers/)
 
@@ -7,6 +7,8 @@ The material for the Big Data and 3D analysis presentation for the MaxIV Summer 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/4Quant/MaxIV_SummerSchool_2018/blob/master/Lectures/BigData.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/4Quant/MaxIV_SummerSchool_2018/master?filepath=Lectures/BigData.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/4Quant/MaxIV_SummerSchool_2018/blob/master/Lectures/BigData.ipynb)
 
 - [Applying Big Data Approaches to Tomography Data](https://www.kaggle.com/kmader/3d-image-analysis-using-dask)
+
+- Video: [Part 1](https://youtu.be/slqaMS1b2YQ) and [Part 2](https://youtu.be/cSCov4BXH1s)
 
 
 # Supervised Analysis / Machine Learning (if time)
