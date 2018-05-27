@@ -6,6 +6,9 @@ The material for the Big Data and 3D analysis presentation for the MaxIV Summer 
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/4Quant/MaxIV_SummerSchool_2018/blob/master/Lectures/BigData.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/4Quant/MaxIV_SummerSchool_2018/master?filepath=Lectures/BigData.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/4Quant/MaxIV_SummerSchool_2018/blob/master/Lectures/BigData.ipynb)
 
+- [Applying Big Data Approaches to Tomography Data](https://www.kaggle.com/kmader/3d-image-analysis-using-dask)
+
+
 # Supervised Analysis / Machine Learning (if time)
 
  - [Slides (static)](http://nbviewer.jupyter.org/format/slides/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/05-SupervisedApproaches.ipynb) [![slides](https://img.shields.io/badge/interactive-slides-green.svg)](http://mybinder.org/v2/gh/kmader/quantitative-big-imaging-2018/master?filepath=Lectures/05-SupervisedApproaches.ipynb) [Lecture Handout](http://nbviewer.jupyter.org/github/kmader/Quantitative-Big-Imaging-2018/blob/master/Lectures/05-SupervisedApproaches.ipynb)
